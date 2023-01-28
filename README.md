@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="display" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw1em4AjbwKIS_9whVQqyfEJ&ust=1674980615972000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj2rJTr6fwCFQAAAAAdAAAAABAJ"
+<img align="right" alt="display" width="400" src="https://github.com/Sahil-0207/Sahil-0207/blob/main/gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-0207&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-0207" /> </p>
 
 - 🔭 I’m currently working on **Image Encryption Project**
