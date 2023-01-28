@@ -1,3 +1,5 @@
+![logo](https://github.com/Sahil-0207/Sahil-0207/blob/main/gif1.gif)
+
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="display" width="400" src="https://github.com/Sahil-0207/Sahil-0207/blob/main/gif1.gif">
