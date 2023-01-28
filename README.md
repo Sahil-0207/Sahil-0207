@@ -1,4 +1,4 @@
-![logo](https://github.com/Sahil-0207/Sahil-0207/blob/main/back.gif)
+![logo](https://github.com/Sahil-0207/Sahil-0207/blob/main/FrontEnd.png)
 
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
