@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="display" width="400" src="[https://github.com/Sahil-0207/Sahil-0207/blob/main/gif.gif](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)">
+<img align="right" alt="display" width="400" src="https://github.com/Sahil-0207/Sahil-0207/blob/main/gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-0207&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-0207" /> </p>
 
 - 🔭 I’m currently working on **Image Encryption Project**
